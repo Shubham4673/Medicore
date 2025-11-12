@@ -36,3 +36,4 @@ This project provides a scalable and blockchain-backed framework for storing, sh
 git clone https://github.com/Shubham4673/Medicore.git
 cd Medicore
 ```
+medicore project
